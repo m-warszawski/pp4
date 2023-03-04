@@ -1,3 +1,4 @@
+package Zadanie_1;
 public class Cena {
     public static float obliczCeneNetto(float cenaBrutto, float podatek){
         podatek = podatek/100;
